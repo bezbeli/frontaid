@@ -1,5 +1,16 @@
 {
   "custom-object": {
     "custom-text": "dsdsd"
-  }
+  },
+  "menu": [
+    {
+      "menu-item": "Bosnia and Herzegovina"
+    },
+    {
+      "menu-item": "Lebanon"
+    },
+    {
+      "menu-item": "Northern Ireland"
+    }
+  ]
 }
