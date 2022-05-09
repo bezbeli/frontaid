@@ -10,7 +10,7 @@
       ":type": "line"
     },
     "custom-text": {
-      ":type": "text"
+      ":type": "text", ":richtext": true
     }
   },
   "custom-list": {
