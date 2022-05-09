@@ -5,6 +5,13 @@
     ":description": "This example text is used as a description.",
     ":type": "line"
   },
+  "menu": {
+    ":items": {
+      "menu-item": {
+        ":type": "line"
+      }
+    }
+  },
   "custom-object": {
     "custom-line": {
       ":type": "line"
@@ -12,13 +19,6 @@
     "custom-text": {
       ":type": "text",
       ":richtext": true
-    }
-  },
-  "menu": {
-    ":items": {
-      "menu-item": {
-        ":type": "line"
-      }
     }
   }
 }
